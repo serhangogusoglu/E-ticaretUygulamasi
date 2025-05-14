@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E-ticaretUygulamasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fillAllFields">Lütfen tüm alanları doldurun</string>
+    <string name="addedToCart">sepete eklendi</string>
+    <string name="deletedFromCart">sepetten silindi!</string>
+    <string name="cvvFormat">Lütfen geçerli bir 3 haneli CVV girin</string>
+    <string name="cardNumberFormat">Lütfen geçerli bir kart numarası girin</string>
+    <string name="expiryFormat">Lütfen geçerli bir MM/YY formatında (örneğin 05/27) tarih girin</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment2"
+        android:icon="@drawable/home_icon"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/cartFragment2"
+        android:icon="@drawable/shopping_cart"
+        android:title="Sepet" />
+</menu>
